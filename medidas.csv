@@ -1,0 +1,999 @@
+Número;Animal/Objeto;Medida;L/A
+4;un Elefante;metro;alta
+5;el David de Miguel Angel;metro;alta
+6;una Jirafa;metro;alta
+7;el Aconcagua;kilómetro;alta
+8;la cima Shisha Pangma;kilómetro;alta
+9;una Orca;metro;larga
+10;una Anaconda;metro;larga
+11;el Abismo Challenger, el punto más profundo del océano;kilómetro;alta
+12;un Camión;metro;larga
+13;un Ratón Lemur;centímetro;larga
+14;un bolígrafo;centímetro;larga
+15;la Kaaba;metro;alta
+16;un Caballito de Mar Pigmeo;milímetro;alta
+17;el Monumento al Minero;metro;alta
+18;un Calamar gigante;metro;larga
+19;el Teatro Romano de Mérida;metro;alta
+20;las Estátuas de Kim Il-Sung y Kim Jong-Il;metro;alta
+21;la Casa Blanca;metro;alta
+22;el Pentágono;metro;alta
+23;el Monumento Pachacuteq;metro;alta
+24;la escultura Water's Soul;metro;alta
+25;un Huevo de avestruz;centímetro;larga
+26;una Paulownia;metro;alta
+27;Liechtenstein;kilómetro;larga
+28;el Acueducto de Segovia;metro;larga
+29;una Ballena Azul;metro;larga
+30;un Abedul;metro;alta
+31;un disco Vinilo;centímetro;larga
+32;la Casa Batlló;metro;alta
+33;la Catedral de Jaén;metro;alta
+34;el Buda Tian Tan;metro;alta
+35;un Tití Pigmeo;centímetro;larga
+36;el Cristo Rey de ?wiebodzin;metro;alta
+37;el Cristo del Pacífico;metro;alta
+38;el Cristo Redentor;metro;alta
+39;el Castillo de Odawara;metro;alta
+40;los molinos de Kinderdijk;metro;alta
+41;el Castillo-Palacio de Olite;metro;alta
+42;la Catedral de San Cristóbal de La Laguna;metro;alta
+43;el Panteón de Roma;metro;alta
+44;el Gran Palacio del Kremlin;metro;alta
+45;el Ángel de la Independencia;metro;alta
+46;el Huevo de Colón;metro;alta
+47;el Reichtag;metro;alta
+48;el Coliseo;metro;alta
+49;el Monumento del Renacimiento Africano;metro;alta
+50;el Arco del Triunfo;metro;alta
+51;el Micalet;metro;alta
+52;el Monumento a los Descubrimientos;metro;alta
+53;El Monumento a los Héroes de la Independencia.;metro;alta
+54;la mezquita de Córdoba;metro;alta
+55;Chandra Bahadur Dangi, el hombre más pequeño de la historia;centímetro;alta
+56;la basílica de Santa Sofía;metro;alta
+57;la Torre de Pisa;metro;alta
+58;el Guandi de Jingzhou;metro;alta
+59;el Alcazar de Toledo;metro;alta
+60;el Monumento a Colón;metro;alta
+61;un Puma;centímetro;larga
+62;un Oso Panda;centímetro;alta
+63;un Jaguar;centímetro;larga
+64;la distacia Bilbao-Vitoria;kilómetro;larga
+65;la Ópera de Sydney;metro;alta
+66;el Alcázar de los Reyes Cristianos;metro;larga
+67;el Monumento a la Revolución;metro;alta
+68;la distacia Madrid-Guadalajara;kilómetro;larga
+69;una Tula considerable;milímetro;larga
+70;un avión;metro;larga
+71;el Palacio Reina Sofía;metro;alta
+72;la distacia Madrid-Toledo;kilómetro;larga
+73;el Palacio de Versalles;metro;alta
+74;una Hiena;centímetro;larga
+75;la Catedral de Santiago de Compostela;metro;alta
+76;un Lince;centímetro;larga
+77;un Mastin;centímetro;alta
+78;un Lobo Ártico;centímetro;alta
+79;una Paca Común;centímetro;larga
+80;el Ágora;metro;alta
+81;una Alpaca;centímetro;alta
+82;un Koala;centímetro;alta
+83;un Pato;centímetro;larga
+84;una Nutria;centímetro;larga
+85;una Secuoya;metro;alta
+86;un Guacamayo;centímetro;larga
+87;la Estatua de la Madre Patria;metro;alta
+88;la Catedral de Burgos;metro;alta
+89;un León Africano;centímetro;alta
+90;Sierra Nevada;kilómetro;larga
+91;un Flamenco;centímetro;alta
+92;el Gran Buda de Tailandia;metro;alta
+93;la Estatua de la libertad;metro;alta
+94;un Coyote;centímetro;alta
+95;el Monasterio de El Escorial;metro;alta
+96;el Big Ben;metro;alta
+97;un Caballo Miniatura;centímetro;alta
+98;la Basílica del Pilar;metro;alta
+99;el Guanyin de Mil Manos y Mil Ojos;metro;alta
+100;Mallorca de punta a punta;kilómetro;larga
+101;la distacia Bilbao-Donosti;kilómetro;larga
+102;un Capibara;centímetro;larga
+103;una Gineta;centímetro;larga
+104;la Giralda;metro;alta
+105;el Estadio olímpico Lluís Companys (Barcelona '92);metro;larga
+106;el Cartel de Hollywood;metro;larga
+107;un Aguará Guazú;centímetro;larga
+108;la Catedral de Segovia;metro;alta
+109;un Tigre;centímetro;alta
+110;un niño de 5 años;centímetro;alta
+111;un Pingüino Emperador;centímetro;alta
+112;el Red Force;metro;alta
+113;un Halcón Peregrino;centímetro;alta
+114;la Torres KIO;metro;alta
+115;Hyperión, el árbol más alto del mundo;metro;alta
+116;la estatua de Laykyun Setkyar;metro;alta
+117;el Edificio España;metro;alta
+118;el Ushiku Daibutsu;metro;alta
+119;una Cabra Montesa;centímetro;larga
+120;el muro de Adriano;kilómetro;larga
+121;un Chimpancé;centímetro;alta
+122;la Biblioteca de Adriano;metro;alta
+123;Mymains Stewart Gillligan, el gato más largo del mundo;centímetro;larga
+124;un Rifle Winchester;centímetro;larga
+125;un Gato Montés;centímetro;alta
+126;la distancia Pamplona-Huesca;kilómetro;larga
+127;la Basílica del Pilar;metro;larga
+128;el Buda del Templo de Primavera;metro;alta
+129;el colmillo de un Jabalí;milímetro;larga
+130;la Torre de la Universidad Laboral de Gijón;metro;alta
+131;un Búfalo;centímetro;alta
+132;una Rata;milímetro;larga
+133;el Asta más alta del mundo;metro;alta
+134;un Búfalo de Agua;centímetro;alta
+135;el London Eye;metro;alta
+136;una Zweihänder;centímetro;larga
+137;la Basílica de San Pedro;metro;alta
+138;una Espada Larga;centímetro;larga
+139;la Piramide de Guiza;metro;alta
+140;una Cebra;centímetro;alta
+141;un Orangután;centímetro;alta
+142;la Torre de Madrid;metro;alta
+143;una Mula;centímetro;alta
+144;la Torre Glòries;metro;alta
+145;Nicki Nicole;centímetro;alta
+146;una Morena;centímetro;alta
+147;un Mero;centímetro;larga
+148;un Caballo Árabe;centímetro;alta
+149;Greta Thunberg;centímetro;alta
+150;un Oso Pardo;centímetro;alta
+151;Becky G;centímetro;alta
+152;Danny DeVito;centímetro;alta
+153;Ariana Grande;centímetro;alta
+154;Cardi B;centímetro;alta
+155;una Cigüeña Blanca;centímetro;alta
+156;Emilia Clarke;centímetro;alta
+157;Shakira;centímetro;alta
+158;Dani Pedrosa;centímetro;alta
+159;un Gorila;centímetro;alta
+160;el Puente de la Mujer;metro;larga
+161;la catedral de Ulm, la iglesia más alta del mundo;metro;alta
+162;Megan Fox;centímetro;alta
+163;Pilar Rubio;centímetro;alta
+164;el Gran Puente de Danyang-Kunshan, el puente más largo del mundo;kilómetro;larga
+165;la Torre Iberdrola;metro;alta
+166;Maribel Verdú;centímetro;alta
+167;Belén Esteban;centímetro;alta
+168;Elijah Wood;centímetro;alta
+169;Messi;centímetro;alta
+170;la distacia Madrid-Cuenca;kilómetro;larga
+171;una Llama;centímetro;alta
+172;La sagrada familia;metro;alta
+173;Rihanna;centímetro;alta
+174;Antonio Banderas;centímetro;alta
+175;Neymar;centímetro;alta
+176;David Getta;centímetro;alta
+177;Sylvester Stallone;centímetro;alta
+178;Taylor Swift;centímetro;alta
+179;Fran Perea;centímetro;alta
+180;el Azzam, el yate más grande del mundo;metro;larga
+181;el Cartel de Cullera;metro;larga
+182;el Monumento a Sardar Vallabhbhai (la estátua más alta del mundo);metro;alta
+183;Leonardo DiCaprio;centímetro;alta
+184;Zapatero;centímetro;alta
+185;Rafa Nadal;centímetro;alta
+186;el Gran Hotel Bali;metro;alta
+187;CR7, SIIIUUUUUUU;centímetro;alta
+188;Ryan Reynolds;centímetro;alta
+189;Sean Connery;centímetro;alta
+190;un Atún;centímetro;larga
+191;José Manuel Calderón;centímetro;alta
+192;Gerard Piqué;centímetro;alta
+193;Clint Eastwood;centímetro;alta
+194;Jorge Fernandez;centímetro;alta
+195;Liam Hemsworth;centímetro;alta
+196;Dwane Johnson;centímetro;alta
+197;Felipe IV;centímetro;alta
+198;Rudy Fernández;centímetro;alta
+199;Penn Jillette;centímetro;alta
+200;un Avestruz hembra;centímetro;alta
+201;Stephen Merchant;centímetro;alta
+202;el Intempo;metro;alta
+203;LeBron James;centímetro;alta
+204;el Estadio Panathinaikó;metro;larga
+205;la distacia Sevilla-Málaga;kilómetro;larga
+206;Kristian Nairn;centímetro;alta
+207;una Torre de Refrigeración;metro;alta
+208;el asteroide Chiron;kilómetro;larga
+209;la distancia Toledo-Albacete;kilómetro;larga
+210;un Alce;centímetro;alta
+211;la distancia Sevilla-Granada;kilómetro;larga
+212;el SS Great Eastern;metro;larga
+213;Pau Gasol;centímetro;alta
+214;Rumeysa Gelgi, la mujer más alta del mundo;centímetro;alta
+215;la distacia Madrid-Salamanca;kilómetro;larga
+216;Marc Gasol;centímetro;larga
+217;un Xenomorph;centímetro;alta
+218;;metro;
+219;la distancia Almeria-Marbella;kilómetro;larga
+220;una Morsa;centímetro;larga
+221;el Ciclón Olivia;kilómetro;larga
+222;la distancia Ovideo-Santiago de Compostela;kilómetro;larga
+223;la distancia Madrid-Albacete;kilómetro;larga
+224;la Torre Espacio;metro;alta
+225;la distancia Soria-Madrid;kilómetro;larga
+226;;metro;
+227;la distancia València-Murcia;kilómetro;larga
+228;;metro;
+229;;metro;
+230;una Vaca;centímetro;larga
+231;Sandre Elaine Allen, la mujer más alta de la historia;centímetro;alta
+232;;metro;
+233;;metro;
+234;;metro;
+235;la distancia Granada-Murcia;kilómetro;larga
+236;la Torres PwC;metro;alta
+237;;metro;
+238;Frankenstein;centímetro;alta
+239;la Tormenta Tropical Emily;kilómetro;larga
+240;un Oso polar hembra;centímetro;larga
+241;;metro;
+242;;metro;
+243;;metro;
+244;el Tower Bridge;metro;larga
+245;;metro;
+246;;metro;
+247;el Puente romano de Córdoba;metro;larga
+248;la Torre Cepsa;metro;alta
+249;la Torre de Cristal;metro;alta
+250;un Girasol;centímetro;alta
+251;Sultan Kösen, el hombre más alto del mundo;centímetro;alta
+252;el KIROV;metro;larga
+253;;metro;
+254;;metro;
+255;;metro;
+256;;metro;
+257;el USS America;metro;larga
+258;;metro;
+259;;metro;
+260;el Megatsunami de St. Helens;metro;alta
+261;la distancia Alicante-Castellón de la Plana;kilómetro;larga
+262;;metro;
+263;el YAMATO;metro;larga
+264;;metro;
+265;;metro;
+266;;metro;
+267;la distancia Barcelona-Andorra;kilómetro;larga
+268;;metro;
+269;el Titanic de eslora (largo);metro;larga
+270;el Ciclón Bhola;kilómetro;larga
+271;el Mercy y Comfort, el barco hospital más grande del mundo;metro;larga
+272;Robert Wadlow, el hombre más alto de la historia;centímetro;alta
+273;la altura de un salto vertical en la Luna;centímetro;alta
+274;el Pont Du Gard;metro;larga
+275;la distancia València-Palma;kilómetro;larga
+276;;metro;
+277;la distancia Barcelona-Palma;kilómetro;larga
+278;;metro;
+279;;metro;
+280;un Avestruz macho;metro;alta
+281;;metro;
+282;;metro;
+283;;metro;
+284;la cabeza del Colossal San Lorenzo;centímetro;alta
+285;la distancia Valladolid-Pamplona;kilómetro;larga
+286;;metro;
+287;;metro;
+288;;metro;
+289;;metro;
+290;;metro;
+291;;metro;
+292;;metro;
+293;;metro;
+294;la Línea de metro Madrid;kilómetro;larga
+295;;metro;
+296;;metro;
+297;;metro;
+298;el puente Si o Se Pol;metro;larga
+299;el Huracán Andrew;metro;larga
+300;la Torre Eiffel;metro;alta
+301;un dragón de Komodo;centímetro;larga
+302;;metro;
+303;;metro;
+304;Minas Tirith;metro;alta
+305;el Torres Obispado;metro;alta
+306;la distancia París-Bruselas;kilómetro;larga
+307;la distancia Barcelona-Zaragoza;kilómetro;larga
+308;el edificio The Shard;metro;alta
+309;la distancia València-Zaragoza;kilómetro;larga
+310;un Albatros;centímetro;larga
+311;;metro;
+312;;metro;
+313;;metro;
+314;la distacia Lisboa-Oporto;kilómetro;larga
+315;;metro;
+316;;metro;
+317;;metro;
+318;;metro;
+319;el edificio Chrysler;metro;alta
+320;la red de carreteras de Andorra;kilómetro;larga
+321;;metro;
+322;la Q1 Tower;metro;alta
+323;;metro;
+324;;metro;
+325;;metro;
+326;;metro;
+327;;metro;
+328;;metro;
+329;;metro;
+330;el Hotel Ryugyong;metro;alta
+331;;metro;
+332;;metro;
+333;la Torre Tokyo;metro;alta
+334;;metro;
+335;;metro;
+336;;metro;
+337;;metro;
+338;;metro;
+339;;metro;
+340;un Camello;centímetro;larga
+341;;metro;
+342;;metro;
+343;la distancia Alicante-Palma;kilómetro;larga
+344;la Torre de los Vengadores;metro;alta
+345;el RMS Queen Mary;metro;larga
+346;el río Tamesis;kilómetro;larga
+347;;metro;
+348;;metro;
+349;la distancia València-Barcelona;kilómetro;larga
+350;el Huracán Jose ;kilómetro;larga
+351;;metro;
+352;;metro;
+353;;metro;
+354;;metro;
+355;;metro;
+356;;metro;
+357;;metro;
+358;;metro;
+359;;metro;
+360;la distacia Valencia-Madrid;kilómetro;larga
+361;;metro;
+362;;metro;
+363;la distancia Asturias-Madrid;kilómetro;larga
+364;;metro;
+365;;metro;
+366;;metro;
+367;la Torre del Banco de China;metro;alta
+368;el Fernsehturum de Berlín;metro;alta
+369;;metro;
+370;;metro;
+371;;metro;
+372;;metro;
+373;;metro;
+374;;metro;
+375;;metro;
+376;;metro;
+377;;metro;
+378;;metro;
+379;;metro;
+380;;metro;
+381;el Empire State;metro;
+382;;metro;
+383;;metro;
+384;;metro;
+385;;metro;
+386;;metro;
+387;;metro;
+388;;metro;
+389;;metro;
+390;un Pelícano;centímetro;larga
+391;;metro;
+392;;metro;
+393;;metro;
+394;;metro;
+395;;metro;
+396;la luna Mimas;kilómetro;larga
+397;;metro;
+398;;metro;
+399;el Huracán Harvey;kilómetro;larga
+400;un Rinoceronte Blanco;centímetro;larga
+401;el Madrid Maersk;metro;larga
+402;;metro;
+403;;metro;
+404;;metro;
+405;;metro;
+406;;metro;
+407;;metro;
+408;;metro;
+409;;metro;
+410;;metro;
+411;;metro;
+412;la Catedral de Arucas;metro;alta
+413;;metro;
+414;;metro;
+415;;metro;
+416;la distancia Oslo-Estocolmo;kilómetro;larga
+417;;metro;
+418;;metro;
+419;;metro;
+420;la estatua de Lamassu;centímetro;alta
+421;;metro;
+422;;metro;
+423;;metro;
+424;;metro;
+425;el edificio Marina 101;metro;alta
+426;;metro;
+427;;metro;
+428;la red de carreteras de Macau;kilómetro;larga
+429;;metro;
+430;Los Pirineos;metro;alta
+431;;metro;
+432;;metro;
+433;;metro;
+434;;metro;
+435;;metro;
+436;;metro;
+437;;metro;
+438;;metro;
+439;;metro;
+440;;metro;
+441;;metro;
+442;;metro;
+443;;metro;
+444;;metro;
+445;;metro;
+446;;metro;
+447;;metro;
+448;;metro;
+449;;metro;
+450;un Gusano de Arena (Dune);metro;larga
+451;;metro;
+452;;metro;
+453;;metro;
+454;;metro;
+455;;metro;
+456;;metro;
+457;;metro;
+458;;metro;
+459;;metro;
+460;;metro;
+461;;metro;
+462;;metro;
+463;;metro;
+464;la distancia París-Lyon;kilómetro;larga
+465;;metro;
+466;;metro;
+467;;metro;
+468;;metro;
+469;;metro;
+470;;metro;
+471;la Central Park Tower;metro;alta
+472;la estatua del Oso y el Madroño;centímetro;alta
+473;;metro;
+474;;metro;
+475;;metro;
+476;;metro;
+477;;metro;
+478;;metro;
+479;;metro;
+480;;metro;
+481;;metro;
+482;;metro;
+483;;metro;
+484;;metro;
+485;;metro;
+486;;metro;
+487;;metro;
+488;;metro;
+489;;metro;
+490;;metro;
+491;;metro;
+492;;metro;
+493;;metro;
+494;el Shangai World Financial Center;metro;alta
+495;;metro;
+496;;metro;
+497;;metro;
+498;;metro;
+499;;metro;
+500;el Castillo de Pedra (Sax);metro;alta
+501;;metro;
+502;;metro;
+503;la luna Enceladus;kilómetro;larga
+504;la distancia Berlin-Munich;kilómetro;larga
+505;;metro;
+506;;metro;
+507;;metro;
+508;el Taipei 101;metro;alta
+509;;metro;
+510;;metro;
+511;;metro;
+512;;metro;
+513;;metro;
+514;;metro;
+515;;metro;
+516;el puente Charles;metro;larga
+517;;metro;
+518;;metro;
+519;;metro;
+520;un Hipopótamo;centímetro;larga
+521;el Megatsunami de Lituya Bay;metro;alta
+522;;metro;
+523;;metro;
+524;;metro;
+525;;metro;
+526;;metro;
+527;;metro;
+528;;metro;
+529;;metro;
+530;;metro;
+531;;metro;
+532;;metro;
+533;;metro;
+534;;metro;
+535;;metro;
+536;;metro;
+537;;metro;
+538;;metro;
+539;la distancia París-Ginebra;kilómetro;larga
+540;la Torre Ostánkino;metro;alta
+541;;metro;
+542;;metro;
+543;;metro;
+544;;metro;
+545;;metro;
+546;;metro;
+547;;metro;
+548;;metro;
+549;;metro;
+550;;metro;
+551;;metro;
+552;;metro;
+553;;metro;
+554;;metro;
+555;;metro;
+556;;metro;
+557;;metro;
+558;;metro;
+559;;metro;
+560;el Huracán Luis;kilómetro;larga
+561;;metro;
+562;;metro;
+563;;metro;
+564;;metro;
+565;;metro;
+566;;metro;
+567;;metro;
+568;;metro;
+569;;metro;
+570;Madagascar de Este a Oeste;kilómetro;larga
+571;;metro;
+572;;metro;
+573;;metro;
+574;;metro;
+575;;metro;
+576;;metro;
+577;;metro;
+578;;metro;
+579;;metro;
+580;;metro;
+581;;metro;
+582;;metro;
+583;;metro;
+584;;metro;
+585;;metro;
+586;;metro;
+587;;metro;
+588;;metro;
+589;;metro;
+590;;metro;
+591;;metro;
+592;;metro;
+593;;metro;
+594;;metro;
+595;;metro;
+596;;metro;
+597;;metro;
+598;;metro;
+599;;metro;
+600;la Meca Abraj Al Bait;metro;alta
+601;la distacia Madrid-Santiago;kilómetro;larga
+602;;metro;
+603;;metro;
+604;;metro;
+605;;metro;
+606;;metro;
+607;;metro;
+608;;metro;
+609;el Project Habakkuk;metro;larga
+610;;metro;
+611;;metro;
+612;la distancia València-Bilbao;kilómetro;larga
+613;;metro;
+614;;metro;
+615;;metro;
+616;;metro;
+617;;metro;
+618;;metro;
+619;;metro;
+620;el Huracán Katrina;kilómetro;larga
+621;;metro;
+622;;metro;
+623;;metro;
+624;;metro;
+625;;metro;
+626;;metro;
+627;;metro;
+628;;metro;
+629;;metro;
+630;;metro;
+631;;metro;
+632;la Torre Shangai;metro;alta
+633;;metro;
+634;;metro;
+635;;metro;
+636;;metro;
+637;;metro;
+638;;metro;
+639;;metro;
+640;;metro;
+641;;metro;
+642;;metro;
+643;;metro;
+644;;metro;
+645;el Huracán Irma;kilómetro;larga
+646;;metro;
+647;;metro;
+648;;metro;
+649;;metro;
+650;;metro;
+651;;metro;
+652;;metro;
+653;;metro;
+654;;metro;
+655;;metro;
+656;;metro;
+657;;metro;
+658;;metro;
+659;;metro;
+660;el Ping An Finance Center;metro;alta
+661;la luna Aegaeon;kilómetro;larga
+662;;metro;
+663;;metro;
+664;;metro;
+665;;metro;
+666;;metro;
+667;;metro;
+668;;metro;
+669;;metro;
+670;;metro;
+671;;metro;
+672;;metro;
+673;la distacia València-Sevilla;metro;larga
+674;;metro;
+675;;metro;
+676;;metro;
+677;;metro;
+678;;metro;
+679;;metro;
+680;;metro;
+681;;metro;
+682;;metro;
+683;;metro;
+684;;metro;
+685;;metro;
+686;;metro;
+687;;metro;
+688;;metro;
+689;;metro;
+690;;metro;
+691;;metro;
+692;;metro;
+693;;metro;
+694;;metro;
+695;;metro;
+696;;metro;
+697;;metro;
+698;;metro;
+699;;metro;
+700;el Huracán Dean;kilómetro;larga
+701;;metro;
+702;;metro;
+703;;metro;
+704;;metro;
+705;;metro;
+706;;metro;
+707;;metro;
+708;;metro;
+709;;metro;
+710;;metro;
+711;la altura de un salto vertical en Plutón;centímetro;alta
+712;;metro;
+713;;metro;
+714;;metro;
+715;;metro;
+716;;metro;
+717;;metro;
+718;;metro;
+719;;metro;
+720;Bruce (Tiburón);centímetro;larga
+721;;metro;
+722;;metro;
+723;;metro;
+724;;metro;
+725;;metro;
+726;;metro;
+727;;metro;
+728;;metro;
+729;;metro;
+730;;metro;
+731;;metro;
+732;;metro;
+733;;metro;
+734;;metro;
+735;;metro;
+736;;metro;
+737;;metro;
+738;;metro;
+739;;metro;
+740;la Alhambra de Granada;metro;larga
+741;;metro;
+742;;metro;
+743;;metro;
+744;;metro;
+745;;metro;
+746;;metro;
+747;;metro;
+748;;metro;
+749;;metro;
+750;la Península ibérica de Norte a Sud;kilómetro;larga
+751;;metro;
+752;;metro;
+753;;metro;
+754;;metro;
+755;;metro;
+756;;metro;
+757;;metro;
+758;;metro;
+759;;metro;
+760;;metro;
+761;;metro;
+762;;metro;
+763;;metro;
+764;;metro;
+765;;metro;
+766;;metro;
+767;la estatua del David de Miguel Ángel;centímetro;alta
+768;;metro;
+769;;metro;
+770;;metro;
+771;;metro;
+772;;metro;
+773;la altura de un salto vertical en Phobos;metro;alta
+774;;metro;
+775;el río Sena;kilómetro;larga
+776;;metro;
+777;;metro;
+778;;metro;
+779;;metro;
+780;;metro;
+781;;metro;
+782;;metro;
+783;;metro;
+784;;metro;
+785;la red de carreteras de las Islas Caimán;kilómetro;larga
+786;;metro;
+787;;metro;
+788;;metro;
+789;;metro;
+790;el Puente Romano de Mérida;metro;larga
+791;;metro;
+792;;metro;
+793;;metro;
+794;;metro;
+795;;metro;
+796;;metro;
+797;;metro;
+798;;metro;
+799;;metro;
+800;el Huracán Mattew ;kilómetro;larga
+801;;metro;
+802;;metro;
+803;;metro;
+804;;metro;
+805;;metro;
+806;;metro;
+807;;metro;
+808;;metro;
+809;;metro;
+810;la SpaceX Dragon;centímetro;alta
+811;;metro;
+812;;metro;
+813;;metro;
+814;;metro;
+815;;metro;
+816;;metro;
+817;;metro;
+818;;metro;
+819;;metro;
+820;;metro;
+821;;metro;
+822;;metro;
+823;;metro;
+824;;metro;
+825;;metro;
+826;;metro;
+827;;metro;
+828;el Burj Khalifa;metro;alta
+829;;metro;
+830;;metro;
+831;;metro;
+832;;metro;
+833;;metro;
+834;;metro;
+835;;metro;
+836;;metro;
+837;;metro;
+838;;metro;
+839;;metro;
+840;;metro;
+841;;metro;
+842;;metro;
+843;;metro;
+844;;metro;
+845;;metro;
+846;;metro;
+847;;metro;
+848;;metro;
+849;;metro;
+850;;metro;
+851;;metro;
+852;;metro;
+853;;metro;
+854;;metro;
+855;;metro;
+856;;metro;
+857;;metro;
+858;;metro;
+859;;metro;
+860;;metro;
+861;;metro;
+862;;metro;
+863;;metro;
+864;;metro;
+865;;metro;
+866;;metro;
+867;;metro;
+868;;metro;
+869;;metro;
+870;;metro;
+871;;metro;
+872;;metro;
+873;;metro;
+874;;metro;
+875;;metro;
+876;;metro;
+877;;metro;
+878;;metro;
+879;;metro;
+880;;metro;
+881;;metro;
+882;;metro;
+883;;metro;
+884;;metro;
+885;;metro;
+886;;metro;
+887;;metro;
+888;;metro;
+889;;metro;
+890;;metro;
+891;;metro;
+892;;metro;
+893;;metro;
+894;;metro;
+895;;metro;
+896;;metro;
+897;;metro;
+898;;metro;
+899;;metro;
+900;;metro;
+901;;metro;
+902;;metro;
+903;;metro;
+904;;metro;
+905;;metro;
+906;;metro;
+907;;metro;
+908;;metro;
+909;;metro;
+910;la estatua de Abraham Lincoln;centímetro;alta
+911;;metro;
+912;;metro;
+913;;metro;
+914;;metro;
+915;;metro;
+916;;metro;
+917;;metro;
+918;;metro;
+919;;metro;
+920;;metro;
+921;;metro;
+922;;metro;
+923;;metro;
+924;;metro;
+925;;metro;
+926;;metro;
+927;;metro;
+928;;metro;
+929;;metro;
+930;;metro;
+931;;metro;
+932;;metro;
+933;;metro;
+934;;metro;
+935;;metro;
+936;;metro;
+937;;metro;
+938;;metro;
+939;;metro;
+940;la red de metro de Seúl, la red de metro más larga del mundo;kilómetro;larga
+941;;metro;
+942;;metro;
+943;;metro;
+944;;metro;
+945;;metro;
+946;;metro;
+947;;metro;
+948;;metro;
+949;;metro;
+950;;metro;
+951;;metro;
+952;;metro;
+953;;metro;
+954;;metro;
+955;;metro;
+956;;metro;
+957;;metro;
+958;;metro;
+959;;metro;
+960;;metro;
+961;;metro;
+962;;metro;
+963;;metro;
+964;;metro;
+965;;metro;
+966;;metro;
+967;;metro;
+968;;metro;
+969;;metro;
+970;;metro;
+971;;metro;
+972;;metro;
+973;;metro;
+974;;metro;
+975;;metro;
+976;;metro;
+977;;metro;
+978;;metro;
+979;El Salto del Ángel, la cascada más alta del mundo;metro;alta
+980;;metro;
+981;;metro;
+982;;metro;
+983;;metro;
+984;;metro;
+985;;metro;
+986;;metro;
+987;;metro;
+988;;metro;
+989;;metro;
+990;;metro;
+991;;metro;
+992;;metro;
+993;;metro;
+994;;metro;
+995;;metro;
+996;;metro;
+997;;metro;
+998;;metro;
+999;;metro;
+1000;la Península itálica;kilómetro;larga
+1001;;metro;
